@@ -1,5 +1,4 @@
 import React from 'react';
-import Signup from './buttons/Signup';
 
 export default function Header(props) {
   return (
