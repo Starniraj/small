@@ -26,12 +26,12 @@ const data = {
         price: 200,
         image: 'https://images-eu.ssl-images-amazon.com/images/I/31x-Xz8TkbL._SX300_SY300_QL70_FMwebp_.jpg',
       },
-      {
-        id: '5',
-        name: 'Iphone 11',
-        price: 700,
-        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvIzZP3RD-bCxw90VQNgh07sXnnEoze1bbw&usqp=CAU',
-      },
+//       {
+//         id: '5',
+//         name: 'Iphone 11',
+//         price: 700,
+//         image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvIzZP3RD-bCxw90VQNgh07sXnnEoze1bbw&usqp=CAU',
+//       },
       // {
       //   id: '6',
       //   name: 'MacBook',
